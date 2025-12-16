@@ -462,8 +462,8 @@ java -Ddebug=true -jar encryption-tool.jar
 ## 📞 联系方式
 
 - **问题反馈**：GitHub Issues
-- **邮件支持**：support@example.com
-- **项目主页**：https://github.com/yourusername/encryption-tool
+- **邮件支持**：28202411167@qq.com
+- **项目主页**：https://github.com/MIssLSK/encryption-tool
 
 ## 🙏 致谢
 
