@@ -1,0 +1,40 @@
+
+
+Version:	3.50
+CmdLine:	D:\encryption-tool.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.023.000
+Java max ver:	
+Substitute:	JAVA_HOME = D:\Program Files\jdk\jdk-23
+Substitute:	PATH = D:\Program Files\Python312-32\Scripts\;D:\Program Files\Python312-32\;D:\Program Files\VMware\VMware Workstation\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\NetSarang\Xmanager 7\;D:\Program Files\NetSarang\Xshell 7\;D:\Program Files\NetSarang\Xftp 7\;D:\Program Files\NetSarang\Xlpd 7\;D:\Program Files\jdk\jdk-23\bin;D:\Program Files\jdk\jdk-23\jre\bin;D:\Program Files\msys64\ucrt64\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\Git\cmd;C:\Users\28202\AppData\Local\Microsoft\WindowsApps;D:\28202\AppData\Local\Programs\Microsoft VS Code\bin;D:\Program Files\Programs\PyCharm 2025.2.4\bin;D:\Program Files\Bandizip\;D:\Program Files\Programs\IntelliJ IDEA 2025.2.5\bin;D:\Program Files\jdk\jdk-23\bin
+JRE paths:	D:\Program Files\jdk\jdk-23;D:\Program Files\Python312-32\Scripts\;D:\Program Files\Python312-32\;D:\Program Files\VMware\VMware Workstation\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\NetSarang\Xmanager 7\;D:\Program Files\NetSarang\Xshell 7\;D:\Program Files\NetSarang\Xftp 7\;D:\Program Files\NetSarang\Xlpd 7\;D:\Program Files\jdk\jdk-23\bin;D:\Program Files\jdk\jdk-23\jre\bin;D:\Program Files\msys64\ucrt64\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\Git\cmd;C:\Users\28202\AppData\Local\Microsoft\WindowsApps;D:\28202\AppData\Local\Programs\Microsoft VS Code\bin;D:\Program Files\Programs\PyCharm 2025.2.4\bin;D:\Program Files\Bandizip\;D:\Program Files\Programs\IntelliJ IDEA 2025.2.5\bin;D:\Program Files\jdk\jdk-23\bin
+Check launcher:	D:\Program Files\jdk\jdk-23\bin\javaw.exe (OK)
+Version string: 1.023.000 / 64-Bit (OK)
+Launcher:	D:\Program Files\jdk\jdk-23\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -jar "D:\encryption-tool.exe"
+Args length:	51/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	D:\encryption-tool.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	D:\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.023.000
+Java max ver:	
+Substitute:	JAVA_HOME = D:\Program Files\jdk\jdk-23
+Substitute:	PATH = D:\Program Files\Python312-32\Scripts\;D:\Program Files\Python312-32\;D:\Program Files\VMware\VMware Workstation\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\NetSarang\Xmanager 7\;D:\Program Files\NetSarang\Xshell 7\;D:\Program Files\NetSarang\Xftp 7\;D:\Program Files\NetSarang\Xlpd 7\;D:\Program Files\jdk\jdk-23\bin;D:\Program Files\jdk\jdk-23\jre\bin;D:\Program Files\msys64\ucrt64\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\Git\cmd;C:\Users\28202\AppData\Local\Microsoft\WindowsApps;D:\28202\AppData\Local\Programs\Microsoft VS Code\bin;D:\Program Files\Programs\PyCharm 2025.2.4\bin;D:\Program Files\Bandizip\;D:\Program Files\Programs\IntelliJ IDEA 2025.2.5\bin;D:\Program Files\jdk\jdk-23\bin
+JRE paths:	D:\Program Files\jdk\jdk-23;D:\Program Files\Python312-32\Scripts\;D:\Program Files\Python312-32\;D:\Program Files\VMware\VMware Workstation\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Program Files\NetSarang\Xmanager 7\;D:\Program Files\NetSarang\Xshell 7\;D:\Program Files\NetSarang\Xftp 7\;D:\Program Files\NetSarang\Xlpd 7\;D:\Program Files\jdk\jdk-23\bin;D:\Program Files\jdk\jdk-23\jre\bin;D:\Program Files\msys64\ucrt64\bin;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;D:\Program Files\Git\cmd;C:\Users\28202\AppData\Local\Microsoft\WindowsApps;D:\28202\AppData\Local\Programs\Microsoft VS Code\bin;D:\Program Files\Programs\PyCharm 2025.2.4\bin;D:\Program Files\Bandizip\;D:\Program Files\Programs\IntelliJ IDEA 2025.2.5\bin;D:\Program Files\jdk\jdk-23\bin
+Check launcher:	D:\Program Files\jdk\jdk-23\bin\javaw.exe (OK)
+Version string: 1.023.000 / 64-Bit (OK)
+Launcher:	D:\Program Files\jdk\jdk-23\bin\javaw.exe
+Launcher args:	-Dfile.encoding=UTF-8 -jar "D:\encryption-tool.exe"
+Args length:	51/32768 chars
+Exit code:	0
