@@ -457,14 +457,11 @@ java -Ddebug=true -jar encryption-tool.jar
 
 ## 📄 许可证
 
-本项目采用 **MIT 许可证** - 详见 [LICENSE](https://license/) 文件。
-
 ## 📞 联系方式
 
 - **问题反馈**：GitHub Issues
 - **邮件支持**：28202411167@qq.com
-- **项目主页**：https://github.com/MIssLSK/encryption-tool
-
+- **项目主页**：https://github.com/MIssLSK/EncryptionTool
 ## 🙏 致谢
 
 感谢所有贡献者和用户的支持！
@@ -893,10 +890,6 @@ java -Dlogging.level=DEBUG -jar encryption-tool.jar > debug.log 2>&1
 - https://www.coursera.org/learn/crypto)
 
 ### 相关工具
-
-- [OpenSSL](https://www.openssl.org/) - 命令行加密工具
-- [GnuPG](https://gnupg.org/) - 开源加密软件
-- [Keybase](https://keybase.io/) - 现代密钥管理
 
 ## 🏆 致谢
 
