@@ -38,7 +38,7 @@ encryption-tool-v2.0/
 │           │       └── KeyPanel.java                # 密钥面板组件
 │           └── exception/                           # (已删除，不再使用)
 ├── README.md                                        # 使用说明文档
-├── LICENSE                                          # MIT许可证
+├── LICENSE                                          # 许可证
 ├── build.xml                                        # Ant构建脚本
 └── encryption-tool.iss                              # Inno Setup安装脚本
 ```
