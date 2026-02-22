@@ -1,4 +1,3 @@
-markdown
 # 加解密算法工具 v2.0 - 安全增强版
 
 [![Java Version](https://img.shields.io/badge/Java-8%2B-blue.svg)](https://www.java.com)
